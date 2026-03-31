@@ -10,3 +10,5 @@ Angular app with authentication flow
 ## Tech
 - Angular
 - TypeScript
+
+Backend API: https://github.com/claudiabeathriz/login-auth-api
