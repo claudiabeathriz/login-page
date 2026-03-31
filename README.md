@@ -9,13 +9,13 @@ Angular app with authentication flow
 
 ## 🎥 Demo
 
+Fullstack authentication flow (Angular + Spring Boot), including form validation, API integration and JWT token generation.
+
 ### 🔐 Login
-Authentication interface with field validation and JWT API integration.
-![LoginPage Demo](./assets/gif/LoginPage.gif)
+![Login Demo](./assets/gif/login.gif)
 
 ### 📝 Sign Up
-Sign up screen with data persistence and token return.
-![SignUp Demo](./assets/gif/SignUpPage.gif)
+![Sign Up Demo](./assets/gif/signup.gif)
 
 ## Tech
 - Angular
